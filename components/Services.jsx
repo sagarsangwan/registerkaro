@@ -47,7 +47,7 @@ const servicesList = [
 ];
 function Services() {
   return (
-    <section className="py-16 ">
+    <section className="py-16 px-3">
       <div className="">
         <h2 className="text-3xl font-bold text-center mb-12">
           Explore Our Services
